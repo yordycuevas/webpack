@@ -8,4 +8,4 @@ import '@styles/vars.styl';
   main.innerHTML = await Template();
 })();
 
-console.log("Hola");//
+console.log("Hola");// console
